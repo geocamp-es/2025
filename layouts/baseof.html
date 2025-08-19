@@ -17,7 +17,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}imgs/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}imgs/favicon/favicon-16x16.png">
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }} RSS Feed" href="{{ .Site.BaseURL }}/index.xml">
+  <!-- <link rel="alternate" type="application/rss+xml" title="{{ site.Title }} RSS Feed" href="{{ .Site.BaseURL }}/index.xml"> -->
 </head>
 <body>
   <main class="container">
@@ -37,7 +37,9 @@
       {{ block "main" . }}{{ end }}
     </article>
     <footer>
-      <p>{{ now.Year }}&copy;. Geoinquietos. <a href="/index.xml">RSS</a></p>
+      <p>{{ now.Year }}&copy;. Geoinquietos. 
+        <!-- <a href="/index.xml">RSS</a> -->
+      </p>
     </footer>
   </main>
 </body>
