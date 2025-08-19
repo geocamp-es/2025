@@ -1,8 +1,8 @@
-baseURL: https://2025.geocamp.es/ 
+baseURL: https://geocamp-es.github.io/2025 #https://2025.geocamp.es/ 
 languageCode: "es-ES"
 defaultContentLanguage: es
 title: Geocamp
 
-
 disableKinds:
   - taxonomy
+  - section

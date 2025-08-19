@@ -8,16 +8,16 @@
     
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
     
-    <link rel="stylesheet" href="/css/pico/pico.min.css" >
-    <link rel="stylesheet" href="/css/pico/pico.colors.min.css" >
-    <link rel="stylesheet" href="/estilos.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/pico/pico.min.css" >
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/pico/pico.colors.min.css" >
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/estilos.css" />
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/imgs/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/imgs/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/imgs/favicon/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}/imgs/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}/imgs/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/imgs/favicon/favicon-16x16.png">
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }} RSS Feed" href="/index.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }} RSS Feed" href="{{ .Site.BaseURL }}/index.xml">
 </head>
 <body>
   <main class="container">
