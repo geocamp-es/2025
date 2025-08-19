@@ -1,0 +1,8 @@
+baseURL: https://2025.geocamp.es/ 
+languageCode: "es-ES"
+defaultContentLanguage: es
+title: Geocamp
+
+
+disableKinds:
+  - taxonomy

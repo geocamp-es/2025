@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <section>
+    {{ .Content}}
+  </section>
+  <!-- 
+  <section>
+  <h2>Páginas</h2>
+  <ul>
+    {{ range where site.RegularPages "Type" "paginas" }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+
+<h2>Blog</h2>
+<ul>
+  {{ $p := where .Site.RegularPages "Type" "blog"}}
+  {{ range $p }}
+    <li>{{.Date | time.Format "2006-01-02"}} - <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{ end }}
+</ul> 
+</section>
+-->
+
+{{ end }}

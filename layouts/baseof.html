@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+    <meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+    
+    <link rel="stylesheet" href="/css/pico/pico.min.css" >
+    <link rel="stylesheet" href="/css/pico/pico.colors.min.css" >
+    <link rel="stylesheet" href="/estilos.css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/imgs/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/imgs/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/imgs/favicon/favicon-16x16.png">
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }} RSS Feed" href="/index.xml">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="/">{{ site.Title }}</a></li>
+        </ul>
+        <ul>
+          <li><a href="https://github.com/geocamp-es/2025">Github</a></li>
+          <li><a href="https://geoinquietos.org">Geoinquietos</a></li>
+          <li><a href="https://osm.org">OSM</a></li>
+        </ul>
+    </nav>
+    </header>
+    <article>
+      {{ block "main" . }}{{ end }}
+    </article>
+    <footer>
+      <p>{{ now.Year }}&copy;. Geoinquietos. <a href="/index.xml">RSS</a></p>
+    </footer>
+  </main>
+</body>
+</html>
