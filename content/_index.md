@@ -1,16 +1,53 @@
 ---
-title: Geocamp 2025
+title: Geocamp / SotM.es 2025 
 ---
 
-Estamos empezando a definir la Geocamp de 2025. Pronto esperamos ofrecer más detalles por aquí y en nuestros canales habituales. Puedes participar en la discusión de la Geocamp en nuestro [grupo de telegram](https://t.me/+s-M8b2nxP2hmNjFk).
+<!-- Logos en tema claro y oscuro -->
+![Logo Geocamp/SoTM](imgs/logo_geocamp_sotm_2025_web.svg)
+{.light .logo-geocamp}
 
-![Geocamp 2023](geocamp2023.jpg)
+![Logo Geocamp/SoTM](imgs/logo_geocamp_sotm_2025_web_dark.svg)
+{.dark .logo-geocamp}
+
+## Datos importantes
+
+* 📆 **Fecha**: Sábado, 13 de diciembre
+* 📌 **Dónde**: [Etopia](https://www.zaragoza.es/sede/portal/etopia/), Zaragoza (![OSM Logo](imgs/osm_logo_icon.svg) [OSM](https://www.openstreetmap.org/way/252382404))
+* 🗒 **Registro**: _pronto_
+{.no-bullets}
+
+## Contacto
+
+Puedes contactar con el equipo organizador a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk) o abriendo un hilo en [Github](https://github.com/geocamp-es/2025/discussions).
 
 ## ¿Qué es una Geocamp?
+
+![Geocamp 2023](imgs/geocamp2023.jpg)
 
 Geocamp es un congreso nacional del colectivo internacional [Geoinquietos](https://geoinquietos.org).
 
 Geoinquietos son grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado con las ciencias de la tierra. No hay (todavía) una estructura formal por lo que cada grupo se organiza a su manera, aunque hay ciertas características comunes como son disponer de un foro de discusión, generalmente una lista de correo, y una cuenta en twitter. Puedes consultar más información en esta [introducción a Geoinquietos](https://geoinquietosmadrid.github.io/geoinquietos-y-osgeoes/#/).
+
+{{< youtube -E7H34iZKd8 >}}
+
+## Patrocinadores
+
+| Ayuntamiento de Zaragoza | Etopia |
+| :--: | :--: |
+| [![Ayuntamiento de Zaragoza](imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/) | [![Etopia](imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/) |
+{.logos}
+
+## Colaboradores
+
+| NOSOLOSIG|
+| :--: |
+|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)|
+
+## Organiza
+
+* [geoinquietos.org](https://geoinquietos.org)
+* [openstreetamp.es](https://openstreetmap.es)
+
 
 ## Ediciones anteriores
 

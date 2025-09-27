@@ -1,8 +1,20 @@
 baseURL: https://2025.geocamp.es/
 languageCode: "es-ES"
 defaultContentLanguage: es
-title: Geocamp
+title: Geocamp/SoTM.es 2025
+
+params:
+  author: Geoinquietos y OSM.es
+
 
 disableKinds:
   - taxonomy
   - section
+
+markup:
+  goldmark:
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
+        title: true

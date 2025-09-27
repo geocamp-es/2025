@@ -1,0 +1,47 @@
+header {
+    font-size: smaller;
+}
+footer {
+    font-size: smaller;
+    margin-top: 2em;
+}
+h2 {
+  --pico-typography-spacing-top: 2rem;
+}
+
+figure {
+    margin: 20px 0;
+}
+
+/* A figure that has inside a .logo-geocamp image */
+figure:has(img.logo-geocamp) {
+  margin: 0; /* Center the figure */
+}
+figure .logo-geocamp {
+  margin: 0 auto;
+  display: block;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+ul.no-bullets li {
+  list-style-type: none; /* Optional: Add some spacing between items */
+}
+
+@media (prefers-color-scheme: dark) {
+  figure:has(img.logo-geocamp.light) {
+    display: none;
+  }
+  .logos img {
+    filter: brightness(0) invert(1);
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  figure:has(.logo-geocamp.dark) {
+    display: none;
+  }
+}

@@ -10,8 +10,11 @@
     
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/pico/pico.min.css" >
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/pico/pico.colors.min.css" >
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/estilos.css" />
-
+    
+    {{ with resources.Get "css/estilos.css" | resources.Minify | resources.Fingerprint "sha512" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+    {{ end }}
+    
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}imgs/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}imgs/favicon/favicon-32x32.png">
@@ -27,9 +30,8 @@
           <li><a href="/">{{ site.Title }}</a></li>
         </ul>
         <ul>
-          <li><a href="https://github.com/geocamp-es/2025">Github</a></li>
           <li><a href="https://geoinquietos.org">Geoinquietos</a></li>
-          <li><a href="https://osm.org">OSM</a></li>
+          <li><a href="https://openstreetmap.es/">OSM.es</a></li>
         </ul>
     </nav>
     </header>
@@ -37,7 +39,7 @@
       {{ block "main" . }}{{ end }}
     </article>
     <footer>
-      <p>{{ now.Year }}&copy;. Geoinquietos. 
+      <p>{{ now.Year }}&copy;. {{ with site.Params.author }}{{ . }}{{ end }}. 
         <!-- <a href="/index.xml">RSS</a> -->
       </p>
     </footer>
