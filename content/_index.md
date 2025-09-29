@@ -18,7 +18,7 @@ title: Geocamp / SotM.es 2025
 
 ## Contacto
 
-Puedes contactar con el equipo organizador a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk) o abriendo un hilo en [Github](https://github.com/geocamp-es/2025/discussions).
+Puedes contactar con el equipo organizador escribiendo a [`2025@geocamp.es`](mailto:2025@geocamp.es) o a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk).
 
 ## ¿Qué es una Geocamp?
 
