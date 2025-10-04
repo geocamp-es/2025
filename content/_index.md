@@ -32,16 +32,19 @@ Geoinquietos son grupos informales que se reúnen para conversar y aprender sobr
 
 ## Patrocinadores
 
-| Ayuntamiento de Zaragoza | Etopia |
+| Etopia - Centro de arte y tecnología | Ayuntamiento de Zaragoza |
 | :--: | :--: |
-| [![Ayuntamiento de Zaragoza](imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/) | [![Etopia](imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/) |
+|  [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/) | [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/) |
+| TomTom |
+| :--: |
+| [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/)|
 {.logos}
 
 ## Colaboradores
 
-| NOSOLOSIG|
-| :--: |
-|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)|
+| NOSOLOSIG| TEconecta|
+| :--: | :--: |
+|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)| [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es)
 
 ## Organiza
 
