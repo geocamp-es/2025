@@ -1,9 +1,9 @@
 ---
-title: Geocamp / SotM.es 2025 
+title: Geocamp/SotM-es 2025 
 ---
 
 <!-- Logos en tema claro y oscuro -->
-![Logo Geocamp/SoTM](imgs/logo_geocamp_sotm_2025_web.svg)
+![Logo Geocamp/SoTM-es](imgs/logo_geocamp_sotm_2025_web.svg)
 {.light .logo-geocamp}
 
 ![Logo Geocamp/SoTM](imgs/logo_geocamp_sotm_2025_web_dark.svg)
@@ -18,15 +18,26 @@ title: Geocamp / SotM.es 2025
 
 ## Contacto
 
-Puedes contactar con el equipo organizador a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk) o abriendo un hilo en [Github](https://github.com/geocamp-es/2025/discussions).
+En breve pondremos a disposición un correo electrónico de contacto pero por el momento puedes abrir un hilo en [Github](https://github.com/geocamp-es/2025/discussions) y también unirte y preguntar sobre la Geocamp/SotMes a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk) que tenemos sobre la jornada.
 
-## ¿Qué es una Geocamp?
+## ¿Qué es Geocamp/SotMes?
 
 ![Geocamp 2023](imgs/geocamp2023.jpg)
 
-Geocamp es un congreso nacional del colectivo internacional [Geoinquietos](https://geoinquietos.org).
+La **Geocamp** es el congreso anual del colectivo internacional Geoinquietos surgido del capítulo hipanohablante de [OSGeo](https://osgeo.org).
 
-Geoinquietos son grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado con las ciencias de la tierra. No hay (todavía) una estructura formal por lo que cada grupo se organiza a su manera, aunque hay ciertas características comunes como son disponer de un foro de discusión, generalmente una lista de correo, y una cuenta en twitter. Puedes consultar más información en esta [introducción a Geoinquietos](https://geoinquietosmadrid.github.io/geoinquietos-y-osgeoes/#/).
+[**Geoinquietos**](https://geoinquietos.org) son grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado las ciencias geográficas, las herramientas y los datos libres espaciales. No hay (todavía) una estructura formal por lo que cada grupo se organiza a su manera, aunque hay ciertas características comunes como son disponer de un foro de discusión, generalmente una lista de correo, y alguna cuenta en redes sociales. En Zaragoza está el grupo de **Mapeado Colaborativo/Geoinquietos Zaragoza** y puedes consultar sus actividades en su [web](https://mapcolabora.org).
+
+Para la jornada que estamos preparando en Zaragoza será también la reunión para la comunidad española de **OpenStreetMap** íntimamente ligada con los colectivos de Geoinquietos. A estos congresos se los denomina **SotM**, del inglés *State of the Map*.
+
+[**OpenStreetMap**](https://wiki.openstreetmap.org/wiki/ES:P%C3%A1gina_principal) es la plataforma colaborativa de datos espaciales libres por excelencia sobre la que se desarrollan una variedad de proyectos que se nutren de sus base de datos geográfica abierta y en la que cada día tenemos más colaboradores y sobre la que existen cada vez más datos para aprovechar de una manera libre e inesperada. La [**Asociación OpenStreetMap España**](https://openstreetmap.es) agrupa a buena parte de los colaboradores en esta parte del espacio geográfico y es la que co-organiza el evento.
+
+Si te interesa la geomática, las herramientas o los datos libres espaciales, esta va a ser una jornada para que compartamos conocimientos, experiencias y podamos conocernos en persona.
+
+<!--
+Puedes consultar más información en esta [introducción a Geoinquietos](https://geoinquietosmadrid.github.io/geoinquietos-y-osgeoes/#/).
+-->
+- - -
 
 {{< youtube -E7H34iZKd8 >}}
 
@@ -35,18 +46,28 @@ Geoinquietos son grupos informales que se reúnen para conversar y aprender sobr
 | Etopia - Centro de arte y tecnología | Ayuntamiento de Zaragoza |
 | :--: | :--: |
 |  [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/) | [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/) |
+{.logos}
 | TomTom |
 | :--: |
-| [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/)|
+| [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/) |
+{.logos}
+| Asociación QGIS España |
+| :--: |
+| [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/) |
 {.logos}
 
 ## Colaboradores
 
-| NOSOLOSIG| TEconecta|
+| Mapeado Colaborativo/Geoinquietos Zaragoza| NOSOLOSIG|
 | :--: | :--: |
-|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)| [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es)
+| [![Geoinquietos ZAragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org)|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)|
+{.logos}
+| TEconecta|
+| :--: |
+| [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es)|
+{.logos}
 
-## Organiza
+## Organización
 
 * [geoinquietos.org](https://geoinquietos.org)
 * [openstreetamp.es](https://openstreetmap.es)
