@@ -1,5 +1,83 @@
 {{ define "main" }}
+<header class="container-fluid" id="page-header">
+  <nav class="container">
+    <ul>
+      <li><strong><a href="/" style="text-decoration: none;">{{ .Site.Title }}</a></strong></li>
+    </ul>
+    <div id="nav-links">
+      {{ .TableOfContents }}
+    </div>
+    <button id="hamburger-btn" aria-label="Toggle navigation" aria-expanded="false">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+    </button>
+  </nav>
+</header>
+<main class="container">
   <section>
     {{ .Content}}
   </section>
+</main>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // Hamburger menu logic
+    const hamburgerBtn = document.getElementById('hamburger-btn');
+    const navLinks = document.getElementById('nav-links');
+
+    hamburgerBtn.addEventListener('click', () => {
+      const isExpanded = hamburgerBtn.getAttribute('aria-expanded') === 'true';
+      hamburgerBtn.setAttribute('aria-expanded', !isExpanded);
+      navLinks.classList.toggle('active');
+    });
+
+    // Manual smooth scroll to account for fixed header
+    const header = document.getElementById('page-header');
+    document.querySelectorAll('#TableOfContents a').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault(); // Stop the default anchor jump
+
+        const targetId = this.getAttribute('href');
+        const targetElement = document.querySelector(targetId);
+
+        if (targetElement) {
+          const headerHeight = header.offsetHeight;
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+          const offsetPosition = targetPosition - headerHeight - 16; // 16px buffer
+
+          window.scrollTo({
+            top: offsetPosition,
+            behavior: 'smooth'
+          });
+        }
+
+        // Close mobile menu after clicking a link
+        if (navLinks.classList.contains('active')) {
+          hamburgerBtn.setAttribute('aria-expanded', 'false');
+          navLinks.classList.remove('active');
+        }
+      });
+    });
+
+    // Active link highlighting
+    const sections = document.querySelectorAll('h2[id]');
+    const tocLinks = document.querySelectorAll('#TableOfContents ul li a');
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(link => {
+            link.classList.remove('active');
+            if (link.getAttribute('href') === `#${entry.target.id}`) {
+              link.classList.add('active');
+            }
+          });
+        }
+      });
+    }, { rootMargin: '-50% 0px -50% 0px' });
+
+    sections.forEach(section => {
+      observer.observe(section);
+    });
+  });
+</script>
 {{ end }}

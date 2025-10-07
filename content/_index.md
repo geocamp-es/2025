@@ -76,7 +76,6 @@ Puedes consultar más información en esta [introducción a Geoinquietos](https:
 * [geoinquietos.org](https://geoinquietos.org)
 * [openstreetamp.es](https://openstreetmap.es)
 
-
 ## Ediciones anteriores
 
 * [Pamplona 2024](http://2024.geocamp.es/)
