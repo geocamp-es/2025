@@ -18,7 +18,11 @@ title: Geocamp/SotM-es 2025
 
 ## Contacto
 
-En breve pondremos a disposición un correo electrónico de contacto pero por el momento puedes abrir un hilo en [Github](https://github.com/geocamp-es/2025/discussions) y también unirte y preguntar sobre la Geocamp/SotMes a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk) que tenemos sobre la jornada.
+Puedes contactar con el equipo organizador de la GeoCamp/SotMes 2025 de varias formas:
+
+* a través del correo [2025@geocamp.es](mailto:2025@geocamp.es?Subject=Contacto%20GeoCamp-SotMes%202025),
+* abriendo un hilo en la discusión de [Github](https://github.com/geocamp-es/2025/discussions)
+* también puedes preguntar a través del [grupo de Telegram](https://t.me/+s-M8b2nxP2hmNjFk) que tenemos sobre la jornada.
 
 ## ¿Qué es Geocamp/SotMes?
 
@@ -26,13 +30,13 @@ En breve pondremos a disposición un correo electrónico de contacto pero por el
 
 La **Geocamp** es el congreso anual del colectivo internacional Geoinquietos surgido del capítulo hipanohablante de [OSGeo](https://osgeo.org).
 
-[**Geoinquietos**](https://geoinquietos.org) son grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado las ciencias geográficas, las herramientas y los datos libres espaciales. No hay (todavía) una estructura formal por lo que cada grupo se organiza a su manera, aunque hay ciertas características comunes como son disponer de un foro de discusión, generalmente una lista de correo, y alguna cuenta en redes sociales. En Zaragoza está el grupo de **Mapeado Colaborativo/Geoinquietos Zaragoza** y puedes consultar sus actividades en su [web](https://mapcolabora.org).
+[**Geoinquietos**](https://geoinquietos.org) son grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado con las ciencias geográficas, sus herramientas y los datos espaciales libres. No existe una estructura preestablecida, por lo que cada grupo se organiza a su manera, aunque comparten algunas características comunes como un foro de discusión, habitualmente una lista de correo, y una presencia en redes sociales. En Zaragoza se encuentra el grupo **Mapeado Colaborativo/Geoinquietos Zaragoza**, y puedes conocer sus actividades en su [web](https://mapcolabora.org).
 
-Para la jornada que estamos preparando en Zaragoza será también la reunión para la comunidad española de **OpenStreetMap** íntimamente ligada con los colectivos de Geoinquietos. A estos congresos se los denomina **SotM**, del inglés *State of the Map*.
+La jornada que estamos preparando en Zaragoza será también la reunión para la **comunidad española de OpenStreetMap** íntimamente ligada con los colectivos de Geoinquietos. A estos congresos se los denomina **SotM**, del inglés *State of the Map*.
 
 [**OpenStreetMap**](https://wiki.openstreetmap.org/wiki/ES:P%C3%A1gina_principal) es la plataforma colaborativa de datos espaciales libres por excelencia sobre la que se desarrollan una variedad de proyectos que se nutren de sus base de datos geográfica abierta y en la que cada día tenemos más colaboradores y sobre la que existen cada vez más datos para aprovechar de una manera libre e inesperada. La [**Asociación OpenStreetMap España**](https://openstreetmap.es) agrupa a buena parte de los colaboradores en esta parte del espacio geográfico y es la que co-organiza el evento.
 
-Si te interesa la geomática, las herramientas o los datos libres espaciales, esta va a ser una jornada para que compartamos conocimientos, experiencias y podamos conocernos en persona.
+**Si te interesa la geomática, las herramientas o los datos libres espaciales, esta va a ser una jornada para que compartamos conocimientos, experiencias y podamos conocernos en persona.**
 
 <!--
 Puedes consultar más información en esta [introducción a Geoinquietos](https://geoinquietosmadrid.github.io/geoinquietos-y-osgeoes/#/).
