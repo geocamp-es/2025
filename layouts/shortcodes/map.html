@@ -1,0 +1,71 @@
+{{ $location := .Get "location" | default "-0.8871,41.6488" }}
+{{ $zoom := .Get "zoom" | default "17" }}
+{{ $height := .Get "height" | default "400px" }}
+{{ $svgPath := .Get "svg" | default "/imgs/map-marker.svg" }}
+
+<div class="map-container">
+    <div id="map-{{ .Ordinal }}" style="height: {{ $height }}; width: 100%;"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/ol@8.2.0/dist/ol.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const coords = "{{ $location }}".split(",");
+    const location = [parseFloat(coords[0]), parseFloat(coords[1])];
+    const svgPath = '{{ $svgPath }}';
+    
+    console.log('Loading map with SVG:', svgPath);
+    
+    const map = new ol.Map({
+        target: 'map-{{ .Ordinal }}',
+        layers: [
+            new ol.layer.Tile({
+                source: new ol.source.OSM()
+            })
+        ],
+        view: new ol.View({
+            center: ol.proj.fromLonLat(location),
+            zoom: {{ $zoom }}
+        })
+    });
+    
+    const iconStyle = new ol.style.Style({
+        image: new ol.style.Icon({
+            anchor: [0.5, 0.5],
+            anchorXUnits: 'fraction',
+            anchorYUnits: 'fraction',
+            src: svgPath,
+            scale: 0.6,
+            }),
+        });
+    
+    const iconBackgroundStyle = new ol.style.Style({
+        image: new ol.style.RegularShape({
+            fill: new ol.style.Fill({
+                color: 'rgba(255, 255, 255, 0.9)'
+            }),
+            stroke: new ol.style.Stroke({
+                color: 'rgba(52, 124, 84, 0.4)',
+                width: 1
+            }),
+            points: 100,
+            radius: 25,
+            radius2: 22,
+            angle: 0
+            })
+        });
+    
+    const iconMarker = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            features: [
+                new ol.Feature({
+                    geometry: new ol.geom.Point(ol.proj.fromLonLat(location))
+                })
+            ]
+        }),
+        style: [iconBackgroundStyle, iconStyle]
+    });
+    
+    map.addLayer(iconMarker);
+});
+</script>
