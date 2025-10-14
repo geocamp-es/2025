@@ -6,6 +6,7 @@ html {
 header {
     font-size: smaller;
 }
+
 footer {
     font-size: smaller;
     margin-top: 2em;
@@ -16,6 +17,11 @@ h2 {
 
 figure {
     margin: 20px 0;
+}
+
+/* tablas */
+table thead th, table tbody td {
+    border-width: 0rem;
 }
 
 /* A figure that has inside a .logo-geocamp image */
@@ -41,6 +47,9 @@ ul.no-bullets li {
   figure:has(img.logo-geocamp.light) {
     display: none;
   }
+  img.light{
+    display: none;
+  }
   .logos img {
     filter: brightness(0) invert(1);
   }
@@ -48,6 +57,9 @@ ul.no-bullets li {
 
 @media (prefers-color-scheme: light) {
   figure:has(.logo-geocamp.dark) {
+    display: none;
+  }
+  img.dark{
     display: none;
   }
 }
@@ -132,6 +144,7 @@ body {
     align-items: center;
   }
 }
+
 
 /* Estilos para la cuenta atras */
 
