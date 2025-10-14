@@ -1,0 +1,42 @@
+{{ $futureDate := .Get "futureDate" | default "2025-12-13T09:00:00" }}
+
+<div class="container text-center">
+  <div id="countdown">
+<ul class="countdown-list">
+  <li><span id="days">0</span> días</li>
+  <li><span id="hours">0</span> horas</li>
+  <li><span id="minutes">0</span> minutos</li>
+  <li><span id="seconds">0</span> segundos</li>
+</ul>
+  </div>
+</div>
+
+<script>
+(function() {
+  const futureDate = "{{ $futureDate }}";
+  const second = 1000,
+        minute = second * 60,
+        hour = minute * 60,
+        day = hour * 24;
+
+  const countDown = new Date(futureDate).getTime();
+
+  const x = setInterval(function() {
+    const now = new Date().getTime(),
+          distance = countDown - now;
+
+    if (distance < 0) {
+      document.getElementById("headline").innerText = "¡Ya ha llegado el momento! 🎊";
+      document.getElementById("countdown").style.display = "none";
+      document.getElementById("content").style.display = "block";
+      clearInterval(x);
+      return;
+    }
+
+    document.getElementById("days").innerText = Math.floor(distance / day);
+    document.getElementById("hours").innerText = Math.floor((distance % day) / hour);
+    document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute);
+    document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
+  }, 1000);
+})();
+</script>

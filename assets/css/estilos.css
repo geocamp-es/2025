@@ -144,3 +144,32 @@ body {
     align-items: center;
   }
 }
+
+
+/* Estilos para la cuenta atras */
+
+#countdown {
+  margin-top: 3rem;
+}
+.countdown-list {
+  list-style: none !important;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  color: #347c54;
+  font-size: 1.5rem; 
+  font-weight: 600;
+}
+
+.countdown-list li span {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.countdown-list li::marker {
+  content: none;
+}
