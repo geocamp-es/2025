@@ -63,31 +63,25 @@ Este año repetimos el formato de [**Desconferencia**](https://es.wikipedia.org/
 
 ## Patrocinadores
 
-| Etopia - Centro de arte y tecnología | Ayuntamiento de Zaragoza |
+| | |
 | :--: | :--: |
+| Etopia - Centro de arte y tecnología | Ayuntamiento de Zaragoza |
 |  [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/) | [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/) |
-{.logos}
-| TomTom |
-| :--: |
-| [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/) |
-{.logos}
-| Asociación QGIS España |
-| :--: |
-| [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/) |
+| TomTom | Asociación QGIS España |
+| [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/) |  [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/) |
 {.logos}
 
 - - -
 
 ## Colaboradores
 
-| Mapeado Colaborativo/Geoinquietos Zaragoza| NOSOLOSIG|
+| | |
 | :--: | :--: |
 | [![Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org)|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)|
 {.logos}
 | TEconecta|
-| :--: |
 | [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es)|
-{.logos}
+
 
 - - -
 
