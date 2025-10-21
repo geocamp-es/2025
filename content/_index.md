@@ -89,7 +89,7 @@ Este año repetimos el formato de [**Desconferencia**](https://es.wikipedia.org/
 ## Organización
 
 * [GeoInquietos](https://geoinquietos.org)
-* [OpenStreetMap ES](https://openstreetmap.es)
+* [Asociación OpenStreetMap España](https://openstreetmap.es)
 
 - - -
 
