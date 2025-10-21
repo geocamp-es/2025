@@ -77,10 +77,11 @@ Este año repetimos el formato de [**Desconferencia**](https://es.wikipedia.org/
 
 | | |
 | :--: | :--: |
-| [![Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org)|[![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/)|
+| Mapeado Colaborativo - Geoinquietos Zaragoza | Nosolosig |
+| [![Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org) | [![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/) |
+| TEconecta | |
+| [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es) | |
 {.logos}
-| TEconecta|
-| [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es)|
 
 
 - - -
