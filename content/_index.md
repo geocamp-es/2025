@@ -77,7 +77,7 @@ Puedes consultar más información en esta [introducción a Geoinquietos](https:
 ## Organización
 
 * [geoinquietos.org](https://geoinquietos.org)
-* [openstreetamp.es](https://openstreetmap.es)
+* [openstreetmap.es](https://openstreetmap.es)
 
 ## Ediciones anteriores
 GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/geocamp/) en Campo Maior, Portugal. 
