@@ -79,24 +79,24 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 - - -
 
-## Patrocinadores
-
-{{< patrocinadores >}}
-
-- - -
-
-### Colaboradores
-
-{{< colaboradores >}}
-
-- - -
-
 ## Programación
 
 {{< schedule >}}
 
 - - -
-## Organización
+
+## Patrocinio
+
+{{< patrocinadores >}}
+
+- - -
+
+### Colaboración
+
+{{< colaboradores >}}
+
+- - -
+### Organización
 
 {{< organizacion >}}
 
