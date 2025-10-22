@@ -1,7 +1,21 @@
+body,
+p,
+li,
+section,
+article {
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+  color:  #B0CE88
+}
+
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 50px; /* Deja espacio para la cabecera fija */
+  scroll-padding-top: 50px;
 }
+
 a {
   color: #347c54 !important;
   text-decoration: none;
@@ -324,7 +338,7 @@ body {
   font-weight: 700;
   margin: 0;
   text-align: center;
-  color:#347c54
+  color:#B0CE88
 }
 
 .description {
@@ -414,4 +428,49 @@ body {
   .event-title {
     font-size: 1.1rem;
   }
+}
+
+/* Sustainable */
+
+.sostenible-container {
+  text-align: center;
+  background-color: #dcf6bd; 
+  padding: 40px 20px;
+}
+
+.contenedor-sostenible {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  text-align: left;
+  padding-bottom: 50px;
+}
+
+.columna-sostenible {
+  flex: 1 1 45%;
+  min-width: 300px;
+  color: #3f4739;
+  text-align: justify;
+}
+
+.ancho-completo-sostenible {
+  flex: 1 1 100%;
+  text-align: justify;
+}
+
+.span-sostenible h3,
+.columna-sostenible h1,
+.columna-sostenible h2,
+.columna-sostenible h3,
+.ancho-completo-sostenible h1,
+.ancho-completo-sostenible h2,
+.ancho-completo-sostenible h3 {
+  color: #B0CE88;
+}
+
+svg {
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+  fill: #349d28;
 }

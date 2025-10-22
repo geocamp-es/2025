@@ -47,49 +47,49 @@ Este año repetimos el formato de [**Desconferencia**](https://es.wikipedia.org/
 
 **Si te interesa la geomática, las herramientas o los datos libres espaciales, esta va a ser una jornada para que compartamos conocimientos, experiencias y podamos conocernos en persona.**
 - - -
+#### ¿Qué es una Desconferencia?
 
+En la Desconferencia la idea es que una persona proponga un tema sobre el que quiere conversar o que le interese. Este tipo de evento está basado en la participación de los asistentes. Deja la verguenza en casa y ven a exponer, preguntar y compartir experiencias e ideas.
+
+#### ¿Cómo funciona?
+Los interesados en el tema se reunirán en la sala habilitada y uno o varios de los que hayan propuesto el tema serán los moderadores de la sesión. La idea es que fluya la conversación y los asistentes vayan navegando por el tema hacia los puntos que más interés generen.
+
+#### ¿Donde será el evento?
+Este año nos veremos en Zaragoza. Concretamente en el espacio Etopia, situada en Avenida Ciudad de Soria, 8. Acceso por Avenida Autonomía 7.
+
+#### ¿Cómo puedo llegar?
+Zaragoza dispone de diferentes medios de transporte. El espacio Etopia se encunetra muy cerca de la [**Estación de Zaragoza Delicias**](https://www.renfe.com/es/ca/inspirate/estaciones/zaragoza-delicias). A los alrededores llegan numerosas líneas de [**autobús**](https://zaragoza.avanzagrupo.com/wp-content/uploads/2025/09/mapaweb-capas_Actualizado-agosto2025.pdf), entre las que se encuentran la 34, 51, Ci1, Ci2, Ci3 y Ci4. También existe la posibilidad de llegar con [**Bizi Zaragoza**](https://bizi.zaragoza.es/es).
+Puedes ver información más detallada en la propia web del [**Ayuntamiento de Zaragoza**](https://www.zaragoza.es/sede/portal/etopia/).
+
+
+<!-- - - -
 ## Quién vendrá este año
 
 
-{{< guests >}}
-
-- - -
-## Programación
-
-**PROGRAMA ORIENTATIVO. SUJETO A CAMBIOS.**
-{{< schedule >}}
+{{< guests >}} -->
 
 - - -
 
 ## Patrocinadores
 
-| | |
-| :--: | :--: |
-| Etopia - Centro de arte y tecnología | Ayuntamiento de Zaragoza |
-|  [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/) | [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/) |
-| TomTom | Asociación QGIS España |
-| [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/) |  [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/) |
-{.logos}
+{{< patrocinadores >}}
 
 - - -
 
 ## Colaboradores
 
-| | |
-| :--: | :--: |
-| Mapeado Colaborativo - Geoinquietos Zaragoza | Nosolosig |
-| [![Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org) | [![NOSOLOSIG](imgs/nosoloSIG.png)](https://nosolosig.com/) |
-| TEconecta | |
-| [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es) | |
-{.logos}
-
+{{< colaboradores >}}
 
 - - -
 
+## Programación
+
+{{< schedule >}}
+
+- - -
 ## Organización
 
-* [GeoInquietos](https://geoinquietos.org)
-* [Asociación OpenStreetMap España](https://openstreetmap.es)
+{{< organizacion >}}
 
 - - -
 
@@ -97,7 +97,7 @@ Este año repetimos el formato de [**Desconferencia**](https://es.wikipedia.org/
 
 {{< youtube -E7H34iZKd8 >}}
 
-GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/geocamp/) en Campo Maior, Portugal. 
+GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/geocamp/) en Campo Maior, Portugal.
 
 * [Pamplona 2024](http://2024.geocamp.es/)
 * [Vigo 2023](http://2023.geocamp.es/)
@@ -108,3 +108,8 @@ GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 201
 * [Sevilla 2015](http://2015.geocamp.es/)
 * [A Coruña 2014](http://2014.geocamp.es/)
 * [Vigo 2013](http://2013.geocamp.es/)
+- - -
+
+{{< sustainable >}}
+
+- - -
