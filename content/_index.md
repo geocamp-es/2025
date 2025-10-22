@@ -1,13 +1,13 @@
 ---
-title: Geocamp/SotM-es 2025 
+title: GeoCamp/SotM-es 2025 
 ---
 
 <!-- Logos en tema claro y oscuro -->
-![Logo Geocamp/SoTM-es](imgs/logo_geocamp_sotm_2025_web.svg)
-{.light .logo-geocamp}
+![Logo GeoCamp/SoTM-es](imgs/logo_GeoCamp_sotm_2025_web.svg)
+{.light .logo-GeoCamp}
 
-![Logo Geocamp/SoTM](imgs/logo_geocamp_sotm_2025_web_dark.svg)
-{.dark .logo-geocamp}
+![Logo GeoCamp/SoTM](imgs/logo_GeoCamp_sotm_2025_web_dark.svg)
+{.dark .logo-GeoCamp}
 
 {{< countdown futureDate="2025-12-13T09:00:00" >}}
 
@@ -22,15 +22,15 @@ title: Geocamp/SotM-es 2025
 
 Puedes contactar con el equipo organizador de la GeoCamp/SotMes 2025 de varias formas:
 
-* A través del correo [**2025@geocamp.es**](mailto:2025@geocamp.es?Subject=Contacto%20GeoCamp-SotMes%202025)
-* Abriendo un hilo en la discusión de [**Github**](https://github.com/geocamp-es/2025/discussions)
+* A través del correo [**2025@GeoCamp.es**](mailto:2025@GeoCamp.es?Subject=Contacto%20GeoCamp-SotMes%202025)
+* Abriendo un hilo en la discusión de [**Github**](https://github.com/GeoCamp-es/2025/discussions)
 * A través del [**grupo de Telegram**](https://t.me/+s-M8b2nxP2hmNjFk) que tenemos sobre la jornada
 
-## ¿Qué es Geocamp/SotMes?
+## ¿Qué es GeoCamp/SotMes?
 
-![Geocamp 2023](imgs/geocamp2023.jpg)
+![GeoCamp 2023](imgs/GeoCamp2023.jpg)
 
-La **Geocamp** es el congreso anual del colectivo internacional Geoinquietos surgido del capítulo hipanohablante de [**OSGeo**](https://osgeo.org).
+La **GeoCamp-ES** es el congreso anual del colectivo internacional Geoinquietos surgido del capítulo hipanohablante de [**OSGeo**](https://osgeo.org).
 
 [**Geoinquietos**](https://geoinquietos.org) son grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado con las ciencias geográficas, sus herramientas y los datos espaciales libres. No existe una estructura preestablecida, por lo que cada grupo se organiza a su manera, aunque comparten algunas características comunes como un foro de discusión, habitualmente una lista de correo, y una presencia en redes sociales. En Zaragoza se encuentra el grupo **Mapeado Colaborativo/Geoinquietos Zaragoza**, y puedes conocer sus actividades en su [**web**](https://mapcolabora.org).
 
@@ -54,11 +54,11 @@ Los interesados en un tema se agruparán en la sala designada, donde uno o vario
 
 ## Localización
 
-Este año, la Geocamp/SotMes se llevará a cabo, gracias a la generosa colaboración del Ayuntamiento de Zaragoza, en el [Centro de Emprendimiento Innovación y Tecnología, **Etopia**](https://www.zaragoza.es/sede/portal/etopia/), ubicado en la Avenida Ciudad de Soria, 8 (acceso por Avenida Autonomía 7): ![OSM Logo](imgs/osm_logo_icon.svg) [Localización en OpenStretMap](https://www.openstreetmap.org/way/252382404)
+Este año, la GeoCamp/SotMes se llevará a cabo, gracias a la generosa colaboración del Ayuntamiento de Zaragoza, en el [Centro de Emprendimiento Innovación y Tecnología, **Etopia**](https://www.zaragoza.es/sede/portal/etopia/), ubicado en la Avenida Ciudad de Soria, 8 (acceso por Avenida Autonomía 7): ![OSM Logo](imgs/osm_logo_icon.svg) [Localización en OpenStretMap](https://www.openstreetmap.org/way/252382404)
 
 Este espacio cuenta con [excelentes instalaciones](https://www.zaragoza.es/sede/portal/etopia/instalaciones/) que favorecerán el desarrollo de nuestra jornada.
 
-{{< map location="-0.9074,41.6596" zoom="14" height="450px" svg="imgs/logo_geocamp_90x50.svg">}}
+{{< map location="-0.9074,41.6596" zoom="14" height="450px" svg="imgs/logo_GeoCamp_90x50.svg">}}
 
 ### ¿Cómo puedo llegar?
 
@@ -106,18 +106,18 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 {{< youtube -E7H34iZKd8 >}}
 
-GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/geocamp/) en Campo Maior, Portugal.
+GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/GeoCamp/) en Campo Maior, Portugal.
 
 <ul class="previous-editions-list">
-  <li><a href="http://2024.geocamp.es/">Pamplona 2024</a></li>
-  <li><a href="http://2023.geocamp.es/">Vigo 2023</a></li>
-  <li><a href="http://2019.geocamp.es/">València 2019</a></li>
-  <li><a href="http://2018.geocamp.es/">Madrid 2018</a></li>
-  <li><a href="http://2017.geocamp.es/">Almería 2017</a></li>
-  <li><a href="http://2016.geocamp.es/">Barcelona 2016</a></li>
-  <li><a href="http://2015.geocamp.es/">Sevilla 2015</a></li>
-  <li><a href="http://2014.geocamp.es/">A Coruña 2014</a></li>
-  <li><a href="http://2013.geocamp.es/">Vigo 2013</a></li>
+  <li><a href="http://2024.GeoCamp.es/">Pamplona 2024</a></li>
+  <li><a href="http://2023.GeoCamp.es/">Vigo 2023</a></li>
+  <li><a href="http://2019.GeoCamp.es/">València 2019</a></li>
+  <li><a href="http://2018.GeoCamp.es/">Madrid 2018</a></li>
+  <li><a href="http://2017.GeoCamp.es/">Almería 2017</a></li>
+  <li><a href="http://2016.GeoCamp.es/">Barcelona 2016</a></li>
+  <li><a href="http://2015.GeoCamp.es/">Sevilla 2015</a></li>
+  <li><a href="http://2014.GeoCamp.es/">A Coruña 2014</a></li>
+  <li><a href="http://2013.GeoCamp.es/">Vigo 2013</a></li>
 </ul>
 - - -
 
