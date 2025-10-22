@@ -93,8 +93,8 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 
 [Preguntanos](#contacto) como puedes patrocinar, colaborar y ayudar con la GeoCamp/SotMes 2025.
 
-### Patrocinan
 - - -
+### Patrocinan
 
 {{< patrocinadores >}}
 
@@ -102,15 +102,11 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 
 ### Colaboran
 
-- - -
-
 {{< colaboradores >}}
 
 - - -
 
 ### Organizan
-
-- - -
 
 {{< organizacion >}}
 
