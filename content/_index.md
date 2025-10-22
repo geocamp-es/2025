@@ -54,11 +54,12 @@ En la Desconferencia la idea es que una persona proponga un tema sobre el que qu
 #### ¿Cómo funciona?
 Los interesados en el tema se reunirán en la sala habilitada y uno o varios de los que hayan propuesto el tema serán los moderadores de la sesión. La idea es que fluya la conversación y los asistentes vayan navegando por el tema hacia los puntos que más interés generen.
 
-#### ¿Donde será el evento?
-Este año nos veremos en Zaragoza. Concretamente en el espacio Etopia, situada en Avenida Ciudad de Soria, 8. Acceso por Avenida Autonomía 7.
+#### ¿Dónde será el evento?
+Este año nos veremos en Zaragoza. Concretamente en el espacio Etopia, situado en Avenida Ciudad de Soria, 8. Acceso por Avenida Autonomía 7.
 
 #### ¿Cómo puedo llegar?
-Zaragoza dispone de diferentes medios de transporte. El espacio Etopia se encunetra muy cerca de la [**Estación de Zaragoza Delicias**](https://www.renfe.com/es/ca/inspirate/estaciones/zaragoza-delicias). A los alrededores llegan numerosas líneas de [**autobús**](https://zaragoza.avanzagrupo.com/wp-content/uploads/2025/09/mapaweb-capas_Actualizado-agosto2025.pdf), entre las que se encuentran la 34, 51, Ci1, Ci2, Ci3 y Ci4. También existe la posibilidad de llegar con [**Bizi Zaragoza**](https://bizi.zaragoza.es/es).
+Zaragoza dispone de diferentes medios de transporte de media y larga distancia. El espacio Etopia se encuentra muy cerca de la [**Estación de tren de Zaragoza Delicias**](https://www.adif.es/w/04040-zaragoza-delicias) y la [**Estación Central de Autobuses de Zaragoza**](https://www.estacion-zaragoza.es/), que comparten edificio.
+A los alrededores de Etopia llegan numerosas líneas de [**autobús urbano**](https://zaragoza.avanzagrupo.com/wp-content/uploads/2025/09/mapaweb-capas_Actualizado-agosto2025.pdf), entre las que se encuentran la 34, 51, Ci1, Ci2, Ci3 y Ci4. También existe la posibilidad de moverse por la ciudad con el sistema de bicis compartidas [**Bizi Zaragoza**](https://bizi.zaragoza.es/es).
 Puedes ver información más detallada en la propia web del [**Ayuntamiento de Zaragoza**](https://www.zaragoza.es/sede/portal/etopia/).
 
 
