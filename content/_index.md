@@ -77,7 +77,7 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 - - -
 
-## Colaboradores
+### Colaboradores
 
 {{< colaboradores >}}
 
