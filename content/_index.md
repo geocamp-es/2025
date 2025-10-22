@@ -64,6 +64,8 @@ Este espacio cuenta con [excelentes instalaciones](https://www.zaragoza.es/sede/
 
 Zaragoza dispone de diferentes medios de transporte de media y larga distancia. El espacio Etopia se encuentra muy cerca de la [**Estación de tren de Zaragoza Delicias**](https://www.adif.es/w/04040-zaragoza-delicias) y la [**Estación Central de Autobuses de Zaragoza**](https://www.estacion-zaragoza.es/), que comparten edificio.
 
+Hemos conseguido un **5% de descuento de RENFE** para la compra de billetes de tren de largo recorrido. [Pregunta por él y te informamos](#contacto).
+
 A los alrededores de Etopia llegan numerosas líneas de [**autobús urbano**](https://zaragoza.avanzagrupo.com/wp-content/uploads/2025/09/mapaweb-capas_Actualizado-agosto2025.pdf), entre las que se encuentran la 34, 51, Ci1, Ci2, Ci3 y Ci4. También existe la posibilidad de moverse por la ciudad con el sistema de bicis compartidas [**Bizi Zaragoza**](https://bizi.zaragoza.es/es).
 
 Puedes ver información más detallada en la propia web del [**Ayuntamiento de Zaragoza**](https://www.zaragoza.es/sede/portal/etopia/).
