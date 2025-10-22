@@ -108,17 +108,16 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/GeoCamp/) en Campo Maior, Portugal.
 
-<ul class="previous-editions-list">
-  <li><a href="http://2024.GeoCamp.es/">Pamplona 2024</a></li>
-  <li><a href="http://2023.GeoCamp.es/">Vigo 2023</a></li>
-  <li><a href="http://2019.GeoCamp.es/">València 2019</a></li>
-  <li><a href="http://2018.GeoCamp.es/">Madrid 2018</a></li>
-  <li><a href="http://2017.GeoCamp.es/">Almería 2017</a></li>
-  <li><a href="http://2016.GeoCamp.es/">Barcelona 2016</a></li>
-  <li><a href="http://2015.GeoCamp.es/">Sevilla 2015</a></li>
-  <li><a href="http://2014.GeoCamp.es/">A Coruña 2014</a></li>
-  <li><a href="http://2013.GeoCamp.es/">Vigo 2013</a></li>
-</ul>
+* [Pamplona 2024](http://2024.geocamp.es/)
+* [Vigo 2023](http://2023.geocamp.es/)
+* [València 2019](http://2019.geocamp.es/)
+* [Madrid 2018](http://2018.geocamp.es/)
+* [Almería 2017](http://2017.geocamp.es/)
+* [Barcelona 2016](http://2016.geocamp.es/)
+* [Sevilla 2015](http://2015.geocamp.es/)
+* [A Coruña 2014](http://2014.geocamp.es/)
+* [Vigo 2013](http://2013.geocamp.es/)
+
 - - -
 
 {{< sustainable >}}
