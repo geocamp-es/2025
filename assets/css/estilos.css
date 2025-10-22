@@ -8,7 +8,7 @@ article {
 
 h1, h2, h3, h4, h5, h6 {
   text-align: left;
-  color:  #B0CE88
+  color:  #347b56
 }
 
 html {
@@ -17,7 +17,7 @@ html {
 }
 
 a {
-  color: #347c54 !important;
+  color: #347b56 !important;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -185,7 +185,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 1rem;
-  color: #347c54;
+  color: #347b56;
   font-size: 1.5rem; 
   font-weight: 600;
 }
@@ -244,7 +244,7 @@ body {
   height: 100%;
   object-fit: cover;
   border-radius: 50%;
-  border: 5px solid #347c54;
+  border: 5px solid #347b56;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
@@ -268,7 +268,7 @@ body {
 }
 
 .whos-behind-social a:hover {
-  color: #347c54;
+  color: #347b56;
 }
 
 .whos-behind-box-1 h4 {
@@ -279,7 +279,7 @@ body {
 }
 
 .whos-behind-box-1 h5 {
-  color: #347c54;
+  color: #347b56;
   font-size: 1.1rem;
   margin-bottom: 1rem;
   font-weight: 500;
@@ -330,7 +330,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  border-left: 5px solid #347c54;
+  border-left: 5px solid #347b56;
 }
 
 .time, .event-title {
@@ -338,7 +338,7 @@ body {
   font-weight: 700;
   margin: 0;
   text-align: center;
-  color:#B0CE88
+  color:#347b56
 }
 
 .description {
@@ -465,7 +465,7 @@ body {
 .ancho-completo-sostenible h1,
 .ancho-completo-sostenible h2,
 .ancho-completo-sostenible h3 {
-  color: #B0CE88;
+  color: #347b56;
 }
 
 svg {
