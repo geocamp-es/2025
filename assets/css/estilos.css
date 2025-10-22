@@ -474,3 +474,19 @@ svg {
   margin-right: 8px;
   fill: #349d28;
 }
+
+/* Estilos para la lista de ediciones anteriores en dos columnas */
+.previous-editions-list {
+  list-style: disc; /* Mantiene los puntos de la lista */
+  padding-left: 1.5rem; /* Añade espacio para los puntos */
+}
+
+@media (min-width: 768px) { /* Aplica para pantallas de escritorio (768px o más) */
+  .previous-editions-list {
+    column-count: 2; /* Divide la lista en dos columnas */
+    column-gap: 2rem; /* Espacio entre las columnas */
+  }
+  .previous-editions-list li {
+    break-inside: avoid-column; /* Evita que los elementos de la lista se corten entre columnas */
+  }
+}

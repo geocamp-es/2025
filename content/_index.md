@@ -15,10 +15,7 @@ title: Geocamp/SotM-es 2025
 ## Datos importantes
 
 * 📆 **Fecha**: Sábado, 13 de diciembre
-* 📌 **Dónde**: [Etopia](https://www.zaragoza.es/sede/portal/etopia/), Zaragoza 
-  (![OSM Logo](imgs/osm_logo_icon.svg) [OSM](https://www.openstreetmap.org/way/252382404))
-{{< map location="-0.9074,41.6596" zoom="13" height="450px" svg="imgs/logo_geocamp_90x50.svg">}}
-
+* 📌 **Dónde**: [Centro de Emprendimiento Innovación y Tecnología, Zaragoza](#localización)
 * 🗒 **Registro**: _pronto_
 {.no-bullets}
 ## Contacto
@@ -43,31 +40,42 @@ La jornada que estamos preparando en Zaragoza será también la reunión para la
 
 Este congreso es **sin ánimo de lucro**, de **asistencia gratuita** y **autofinanciado**.
 
-Este año repetimos el formato de [**Desconferencia**](https://es.wikipedia.org/wiki/Desconferencia): todos los participantes toman un papel activo en la ejecución del evento para aumentar la interacción entre los asistentes de tú a tú (en lugar del modelo tradicional de conferencia de comunicación de uno a muchos) para ser capaces, con agilidad e improvisación, de satisfacer espontáneamente las inquietudes de los participantes, tanto las que traigan de casa como las que surjan durante la jornada.
-
 **Si te interesa la geomática, las herramientas o los datos libres espaciales, esta va a ser una jornada para que compartamos conocimientos, experiencias y podamos conocernos en persona.**
 - - -
-#### ¿Qué es una Desconferencia?
+### ¿Qué es una *desconferencia*?
 
-En la Desconferencia la idea es que una persona proponga un tema sobre el que quiere conversar o que le interese. Este tipo de evento está basado en la participación de los asistentes. Deja la verguenza en casa y ven a exponer, preguntar y compartir experiencias e ideas.
+Este año, al igual que en ediciones anteriores, mantendremos el concepto de desconferencia, donde todos los participantes se involucran activamente en el desarrollo del evento. Este enfoque fomenta la interacción directa entre los asistentes, alejándose del formato tradicional de conferencia, permitiendo así una respuesta ágil y espontánea a las inquietudes que traen los participantes, así como a las nuevas que puedan surgir durante el encuentro.
 
-#### ¿Cómo funciona?
-Los interesados en el tema se reunirán en la sala habilitada y uno o varios de los que hayan propuesto el tema serán los moderadores de la sesión. La idea es que fluya la conversación y los asistentes vayan navegando por el tema hacia los puntos que más interés generen.
+En la desconferencia, cada persona puede proponer un tema de interés para discutir. Este formato se basa en la colaboración de los asistentes, así que deja la timidez atrás y anímate a compartir tus inquietudes y experiencias.
 
-#### ¿Dónde será el evento?
-Este año nos veremos en Zaragoza. Concretamente en el espacio Etopia, situado en Avenida Ciudad de Soria, 8. Acceso por Avenida Autonomía 7.
+#### ¿Cómo se lleva a cabo?
 
-#### ¿Cómo puedo llegar?
+Los interesados en un tema se agruparán en la sala designada, donde uno o varios de los proponentes actuarán como moderadores. El objetivo es que la conversación fluya y que los asistentes exploren el tema, dirigiéndose hacia los puntos que más les interesen.
+
+## Localización
+
+Este año, la Geocamp/SotMes se llevará a cabo, gracias a la generosa colaboración del Ayuntamiento de Zaragoza, en el [Centro de Emprendimiento Innovación y Tecnología, **Etopia**](https://www.zaragoza.es/sede/portal/etopia/), ubicado en la Avenida Ciudad de Soria, 8 (acceso por Avenida Autonomía 7): ![OSM Logo](imgs/osm_logo_icon.svg) [Localización en OpenStretMap](https://www.openstreetmap.org/way/252382404)
+
+Este espacio cuenta con [excelentes instalaciones](https://www.zaragoza.es/sede/portal/etopia/instalaciones/) que favorecerán el desarrollo de nuestra jornada.
+
+{{< map location="-0.9074,41.6596" zoom="14" height="450px" svg="imgs/logo_geocamp_90x50.svg">}}
+
+### ¿Cómo puedo llegar?
+
 Zaragoza dispone de diferentes medios de transporte de media y larga distancia. El espacio Etopia se encuentra muy cerca de la [**Estación de tren de Zaragoza Delicias**](https://www.adif.es/w/04040-zaragoza-delicias) y la [**Estación Central de Autobuses de Zaragoza**](https://www.estacion-zaragoza.es/), que comparten edificio.
+
 A los alrededores de Etopia llegan numerosas líneas de [**autobús urbano**](https://zaragoza.avanzagrupo.com/wp-content/uploads/2025/09/mapaweb-capas_Actualizado-agosto2025.pdf), entre las que se encuentran la 34, 51, Ci1, Ci2, Ci3 y Ci4. También existe la posibilidad de moverse por la ciudad con el sistema de bicis compartidas [**Bizi Zaragoza**](https://bizi.zaragoza.es/es).
+
 Puedes ver información más detallada en la propia web del [**Ayuntamiento de Zaragoza**](https://www.zaragoza.es/sede/portal/etopia/).
 
+<!-- 
+- - -
 
-<!-- - - -
 ## Quién vendrá este año
 
+{{< guests >}} 
 
-{{< guests >}} -->
+-->
 
 - - -
 
@@ -100,15 +108,17 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 2012](https://www.flickr.com/photos/geocamp/) en Campo Maior, Portugal.
 
-* [Pamplona 2024](http://2024.geocamp.es/)
-* [Vigo 2023](http://2023.geocamp.es/)
-* [València 2019](http://2019.geocamp.es/)
-* [Madrid 2018](http://2018.geocamp.es/)
-* [Almería 2017](http://2017.geocamp.es/)
-* [Barcelona 2016](http://2016.geocamp.es/)
-* [Sevilla 2015](http://2015.geocamp.es/)
-* [A Coruña 2014](http://2014.geocamp.es/)
-* [Vigo 2013](http://2013.geocamp.es/)
+<ul class="previous-editions-list">
+  <li><a href="http://2024.geocamp.es/">Pamplona 2024</a></li>
+  <li><a href="http://2023.geocamp.es/">Vigo 2023</a></li>
+  <li><a href="http://2019.geocamp.es/">València 2019</a></li>
+  <li><a href="http://2018.geocamp.es/">Madrid 2018</a></li>
+  <li><a href="http://2017.geocamp.es/">Almería 2017</a></li>
+  <li><a href="http://2016.geocamp.es/">Barcelona 2016</a></li>
+  <li><a href="http://2015.geocamp.es/">Sevilla 2015</a></li>
+  <li><a href="http://2014.geocamp.es/">A Coruña 2014</a></li>
+  <li><a href="http://2013.geocamp.es/">Vigo 2013</a></li>
+</ul>
 - - -
 
 {{< sustainable >}}
