@@ -102,8 +102,8 @@ ul.no-bullets li {
   z-index: 1000; /* Se asegura de que esté por encima de otro contenido */
   background-color: var(--pico-background-color); /* Fondo sólido (blanco/negro) */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
-  padding-top: 0.1rem; /* Aún más fino */
-  padding-bottom: 0.1rem; /* Aún más fino */
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 /* Alinea el título y la lista de enlaces */
@@ -112,6 +112,16 @@ ul.no-bullets li {
   justify-content: space-between;
   align-items: center;
   font-size: 0.85rem; /* Texto más pequeño */
+}
+/* Añadimos padding al contenedor de la navegación para que no se pegue a los bordes */
+#page-header nav.container {
+  padding-left: var(--pico-spacing);
+  padding-right: var(--pico-spacing);
+}
+
+/* Estilo para el logo en la barra de navegación */
+#page-header nav img {
+  height: 40px; /* Altura del logo */
 }
 
 /* Estilos para la lista del índice (Table of Contents) */
@@ -130,7 +140,7 @@ ul.no-bullets li {
 
 /* Para que el cuerpo de la página no empiece debajo de la barra fija */
 body {
-  padding-top: 50px; /* Ajustado para la nueva altura */
+  padding-top: 60px; /* Ajustado para la nueva altura de la barra */
 }
 
 

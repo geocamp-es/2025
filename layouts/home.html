@@ -1,11 +1,11 @@
 {{ define "main" }}
-<header class="container-fluid" id="page-header">
+<header id="page-header">
   <nav class="container">
     <ul>
       <li>
         <a href="/" style="text-decoration: none;">
-          <img class="light" src="{{ .Site.BaseURL }}imgs/logo_geocamp_90x50.svg" alt="Geocamp/SoTM.es 2025 Logo" style="height: 50px;">
-          <img class="dark" src="{{ .Site.BaseURL }}imgs/logo_geocamp_90x50_dark.svg" alt="Geocamp/SoTM.es 2025 Logo" style="height: 50px;">
+          <img class="light" src="{{ .Site.BaseURL }}imgs/logo_geocamp_90x50.svg" alt="Geocamp/SoTM.es 2025 Logo">
+          <img class="dark" src="{{ .Site.BaseURL }}imgs/logo_geocamp_90x50_dark.svg" alt="Geocamp/SoTM.es 2025 Logo">
         </a>
       </li>
     </ul>
@@ -17,11 +17,9 @@
     </button>
   </nav>
 </header>
-<main class="container">
-  <section>
-    {{ .Content}}
-  </section>
-</main>
+<section>
+  {{ .Content}}
+</section>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
