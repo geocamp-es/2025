@@ -4,10 +4,10 @@ title: GeoCamp/SotM-es 2025
 
 <!-- Logos en tema claro y oscuro -->
 ![Logo GeoCamp/SoTM-es](imgs/logo_GeoCamp_sotm_2025_web.svg)
-{.light .logo-GeoCamp}
+{.light .logo-geocamp}
 
 ![Logo GeoCamp/SoTM](imgs/logo_GeoCamp_sotm_2025_web_dark.svg)
-{.dark .logo-GeoCamp}
+{.dark .logo-geocamp}
 
 {{< countdown futureDate="2025-12-13T09:00:00" >}}
 
@@ -120,6 +120,8 @@ GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 201
 
 - - -
 
+<!-- 
 {{< sustainable >}}
 
 - - -
+-->
