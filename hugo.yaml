@@ -1,10 +1,10 @@
 baseURL: https://2025.geocamp.es/
 languageCode: "es-ES"
 defaultContentLanguage: es
-title: Geocamp/SoTM.es 2025
+title: Geocamp/SoTMes 2025
 
 params:
-  author: Geoinquietos y OpenStreetMap ES
+  author: Geoinquietos, Asoc. OpenStreetMap España, Geojóvenes
 
 
 disableKinds:
