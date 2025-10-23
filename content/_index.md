@@ -130,6 +130,16 @@ GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 201
 
 - - -
 
+## Compromiso
+
+Desde la organización de la GeoCamp/SotMes 2025, queremos que la jornada refleje un equilibrio en términos de **diversidad de género** y una mayor participación de **jóvenes**. También nos enfocamos en que la actividad sea **ambientalmente sostenible**.
+
+Es esencial que las voces de las mujeres estén presentes y sean escuchadas en las charlas, ya que la diversidad en la participación enriquece nuestras discusiones, impulsa el desarrollo del evento y contribuye a un avance en el ámbito de las geo-tecnologías en general.
+
+Asimismo, consideramos esencial fomentar un mayor involucramiento de la juventud en este tipo de congresos, pues sus ideas son clave para construir un futuro mejor.
+
+Estamos comprometidos con la sostenibilidad de nuestra iniciativa y, por ello, implementaremos diversas medidas, como promover el uso de transporte público, el consumo de productos ecológicos y de proximidad, así como el reciclaje.
+
 <!-- 
 {{< sustainable >}}
 
