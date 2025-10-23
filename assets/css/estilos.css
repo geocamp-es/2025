@@ -494,3 +494,11 @@ svg {
   margin-right: 8px;
   fill: #349d28;
 }
+
+
+/* botón registro */
+#regístrate {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
