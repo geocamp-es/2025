@@ -60,7 +60,7 @@ Este año, la GeoCamp/SotMes se llevará a cabo, gracias a la generosa colaborac
 
 Este espacio cuenta con [excelentes instalaciones](https://www.zaragoza.es/sede/portal/etopia/instalaciones/) que favorecerán el desarrollo de nuestra jornada.
 
-{{< map location="-0.9074,41.6596" zoom="14" height="450px" svg="imgs/logo_GeoCamp_90x50.svg">}}
+{{< map location="-0.9074,41.6596" zoom="14" height="450px" svg="imgs/logo_geocamp_90x50.svg">}}
 
 ### ¿Cómo puedo llegar?
 
