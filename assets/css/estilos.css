@@ -1,3 +1,13 @@
+:root {
+  --verde-mudejar: #347b56;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --verde-mudejar: #aad400;
+  }
+}
+
 body,
 p,
 li,
@@ -8,7 +18,7 @@ article {
 
 h1, h2, h3, h4, h5, h6 {
   text-align: left;
-  color:  #347b56
+  color: var(--verde-mudejar)
 }
 
 html {
@@ -17,7 +27,7 @@ html {
 }
 
 a {
-  color: #347b56 !important;
+  color: var(--verde-mudejar) !important;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -195,7 +205,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 1rem;
-  color: #347b56;
+  color: var(--verde-mudejar);
   font-size: 1.5rem; 
   font-weight: 600;
 }
@@ -254,7 +264,7 @@ body {
   height: 100%;
   object-fit: cover;
   border-radius: 50%;
-  border: 5px solid #347b56;
+  border: 5px solid var(--verde-mudejar);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
@@ -278,7 +288,7 @@ body {
 }
 
 .whos-behind-social a:hover {
-  color: #347b56;
+  color: var(--verde-mudejar);
 }
 
 .whos-behind-box-1 h4 {
@@ -289,7 +299,7 @@ body {
 }
 
 .whos-behind-box-1 h5 {
-  color: #347b56;
+  color: var(--verde-mudejar);
   font-size: 1.1rem;
   margin-bottom: 1rem;
   font-weight: 500;
@@ -340,7 +350,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  border-left: 5px solid #347b56;
+  border-left: 5px solid var(--verde-mudejar);
 }
 
 .time, .event-title {
@@ -348,7 +358,7 @@ body {
   font-weight: 700;
   margin: 0;
   text-align: center;
-  color:#347b56
+  color: var(--verde-mudejar)
 }
 
 .description {
@@ -475,7 +485,7 @@ body {
 .ancho-completo-sostenible h1,
 .ancho-completo-sostenible h2,
 .ancho-completo-sostenible h3 {
-  color: #347b56;
+  color: var(--verde-mudejar);
 }
 
 svg {
