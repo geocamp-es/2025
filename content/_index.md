@@ -116,13 +116,16 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 
 ## Compromiso
 
-Desde la organización de la GeoCamp/SotMes 2025, queremos que la jornada refleje un equilibrio en términos de **diversidad de género** y una mayor participación de **jóvenes**. También nos enfocamos en que la actividad sea **ambientalmente sostenible**.
+En la organización de la GeoCamp/SotMEs 2025 queremos que el encuentro **refleje la diversidad y los valores de nuestra comunidad geo**.
 
-Es esencial que las voces de las mujeres estén presentes y sean escuchadas en las charlas, ya que la diversidad en la participación enriquece nuestras discusiones, impulsa el desarrollo del evento y contribuye a un avance en el ámbito de las geo-tecnologías en general.
+Apostamos por un evento con **equilibrio de género**, una mayor **participación de jóvenes** y un **desarrollo respetuoso con el medio ambiente**.
 
-Asimismo, consideramos esencial fomentar un mayor involucramiento de la juventud en este tipo de congresos, pues sus ideas son clave para construir un futuro mejor.
+Desde el equipo organizador creemos, que escuchar las voces de las mujeres y fomentar su participación en las charlas enriquece las conversaciones, impulsa nuevas miradas y fortalece el avance de las geo-tecnologías.
 
-Estamos comprometidos con la sostenibilidad de nuestra iniciativa y, por ello, implementaremos diversas medidas, como promover el uso de transporte público, el consumo de productos ecológicos y de proximidad, así como el reciclaje.
+También queremos que las y los jóvenes tengan un papel protagonista. Sus ideas, su energía y su visión son esenciales para imaginar el futuro que queremos construir.
+
+Por último, asumimos el compromiso de reducir el impacto ambiental de la jornada: promoveremos el uso del transporte público, el consumo de productos locales y ecológicos, y el reciclaje como parte natural de la experiencia.
+
 
 <!-- 
 {{< sustainable >}}
