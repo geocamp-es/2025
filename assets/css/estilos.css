@@ -353,15 +353,9 @@ body {
 
 .description {
   padding: 1rem;
-  color: var(--pico-muted-border-color);
+  color: var(--pico-muted-color);
   margin: 0;
   text-align: center;
-}
-
-@media (prefers-color-scheme: dark) {
-  .description {
-    color: var(--pico-muted-color);
-  }
 }
 
 /* Destacar elementos especiales */
