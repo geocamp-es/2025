@@ -358,6 +358,12 @@ body {
   text-align: center;
 }
 
+@media (prefers-color-scheme: dark) {
+  .description {
+    color: #eeeeee;
+  }
+}
+
 /* Destacar elementos especiales */
 .highlight {
   background: #ff6b35;
