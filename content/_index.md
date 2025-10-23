@@ -11,12 +11,13 @@ title: GeoCamp/SotM-es 2025
 
 {{< countdown futureDate="2025-12-13T09:00:00" >}}
 
+{{< registrate >}}
 
 ## Datos importantes
 
-* 📆 **Fecha**: Sábado, 13 de diciembre
+* 📆 **Fecha**: Sábado, **13 de diciembre**
 * 📌 **Dónde**: [Centro de Emprendimiento Innovación y Tecnología, Zaragoza](#localización)
-* 🗒 **Registro**: https://www.eventbrite.es/e/entradas-geocampsotmes-2025-1856405812759
+* 🗒 **Registro**: [Eventbrite](https://www.eventbrite.es/e/entradas-geocampsotmes-2025-1856405812759)
 * 📑 **Guía de patrocinio**: [PDF](./GuiaPatrocinioGeoCamp-SotMes_2025.pdf)
 {.no-bullets}
 
