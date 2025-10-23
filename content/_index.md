@@ -17,7 +17,9 @@ title: GeoCamp/SotM-es 2025
 * 📆 **Fecha**: Sábado, 13 de diciembre
 * 📌 **Dónde**: [Centro de Emprendimiento Innovación y Tecnología, Zaragoza](#localización)
 * 🗒 **Registro**: _pronto_
+* 📑 **Guía de patrocinio**: [PDF](./GuiaPatrocinioGeoCamp-SotMes_2025.pdf)
 {.no-bullets}
+
 ## Contacto
 
 Puedes contactar con el equipo organizador de la GeoCamp/SotMes 2025 de varias formas:
@@ -91,7 +93,7 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 Este evento solo es posible gracias al patrocinio de empresas, instituciones y personas como tú. 
 
-[Preguntanos](#contacto) como puedes patrocinar, colaborar y ayudar con la GeoCamp/SotMes 2025.
+[Preguntanos](#contacto) como puedes patrocinar, colaborar y ayudar con la GeoCamp/SotMes 2025 o también puedes descargar nuestro documento de patrocinios [aquí](./GuiaPatrocinioGeoCamp-SotMes_2025.pdf)
 
 - - -
 ### Patrocinan
