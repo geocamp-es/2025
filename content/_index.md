@@ -99,7 +99,13 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 - - -
 ### Patrocinan
 
-{{< patrocinadores >}}
+* [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/)
+* [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/)
+* [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/)
+* [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/)
+* [![Geoinnova](./imgs/geoinnova.svg)](https://geoinnova.org/)
+* [![Ibercivis](./imgs/ibercivis.png)](https://ibercivis.es/)
+{.logos .no-bullets}
 
 - - -
 
@@ -110,13 +116,14 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es/)
 {.logos .no-bullets}
 
-<!-- {{< colaboradores >}} -->
-
 - - -
 
 ### Organizan
 
-{{< organizacion >}}
+* [![Geoinquietos](./imgs/geoinquietos.svg)](https://geoinquietos.org)
+* [![Asoc. OpenStreetMap España](./imgs/osm_es_texto.svg)](https://openstreetmap.es)
+* [![Geojóvenes](./imgs/geojovenes.svg)](https://geojovenes.org)
+{.logos .no-bullets}
 
 - - -
 
