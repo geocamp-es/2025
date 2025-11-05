@@ -80,6 +80,14 @@ ul.no-bullets li {
   list-style-type: none; /* Optional: Add some spacing between items */
 }
 
+ul.logos {
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap; gap:40px;
+    align-items:center;
+    text-align:center;
+  }
+
 .logos img {
     height: 60px;
   }
