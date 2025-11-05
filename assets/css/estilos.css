@@ -88,7 +88,7 @@ ul.no-bullets li {
     display: none;
   }
   .logos img {
-    filter: invert(1) saturate(0) brightness(3);
+    filter: invert(1) saturate(0) brightness(1.75);
   }
 }
 
