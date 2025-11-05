@@ -80,6 +80,10 @@ ul.no-bullets li {
   list-style-type: none; /* Optional: Add some spacing between items */
 }
 
+.logos img {
+    height: 60px;
+  }
+
 @media (prefers-color-scheme: dark) {
   figure:has(img.logo-geocamp.light) {
     display: none;

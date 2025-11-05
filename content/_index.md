@@ -105,7 +105,16 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 
 ### Colaboran
 
-{{< colaboradores >}}
+{{<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:40px; align-items:center; text-align:center;">}}
+
+[![Mapeado Colaborativo/Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org/)
+[![Nosolosig](./imgs/nosoloSIG.png)](https://nosolosig.com/)
+[![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es/)
+{.logos}
+
+{{</div>}}
+
+<!-- {{< colaboradores >}} -->
 
 - - -
 
