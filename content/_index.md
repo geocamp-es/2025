@@ -139,11 +139,6 @@ También queremos que las y los jóvenes tengan un papel protagonista. Sus ideas
 
 Por último, asumimos el compromiso de reducir el impacto ambiental de la jornada: promoveremos el uso del transporte público, el consumo de productos locales y ecológicos, y el reciclaje como parte natural de la experiencia.
 
-
-<!-- 
-{{< sustainable >}}
--->
-
 - - -
 
 ## Ediciones anteriores
@@ -162,5 +157,6 @@ GeoCamp ES nació en 2013 como el resultado de la participación en [GeoCamp 201
 * [A Coruña 2014](http://2014.geocamp.es/)
 * [Vigo 2013](http://2013.geocamp.es/)
 
-
 - - -
+
+Queremos agrader a **Xoan González Otero** por el diseño original del logotipo de este evento.
