@@ -94,7 +94,7 @@ Puedes ver información más detallada en la propia web del [**Ayuntamiento de Z
 
 Este evento solo es posible gracias al patrocinio de empresas, instituciones y personas como tú. 
 
-[Preguntanos](#contacto) como puedes patrocinar, colaborar y ayudar con la GeoCamp/SotMes 2025 o también puedes descargar nuestro documento de patrocinios [aquí](./GuiaPatrocinioGeoCamp-SotMes_2025.pdf)
+[Pregúntanos](#contacto) como puedes patrocinar, colaborar y ayudar con la GeoCamp/SotMes 2025 o también puedes descargar nuestro documento de patrocinios [aquí](./GuiaPatrocinioGeoCamp-SotMes_2025.pdf)
 
 - - -
 ### Patrocinan
