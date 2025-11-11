@@ -364,16 +364,55 @@ body {
   overflow: hidden;
   border-left: 5px solid var(--verde-mudejar);
 }
+.schedule li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
 
-.time, .event-title {
+.session-time {
+  flex: 0 0 150px;
+  width: 150px;
+  max-width: 150px;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-align: center;
+  align-self: center;
+  color: var(--verde-mudejar);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.session-details {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .schedule li {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .session-time {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: none;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.session-title, .event-title {
   font-size: 1.3rem;
   font-weight: 700;
   margin: 0;
+  margin-top: 0.5rem;
   text-align: center;
   color: var(--verde-mudejar)
 }
 
-.description {
+.session-description {
   padding: 1rem;
   color: var(--pico-muted-color);
   margin: 0;
@@ -403,17 +442,35 @@ body {
   }
 }
 
-/* Estados especiales */
-.schedule li.special {
+/* Sesión ocurriendo actualmente */
+.schedule li.live {
   border-left: 5px solid #ff6b35;
-}
-
-.schedule li.special .schedule-header {
   background: linear-gradient(135deg, #ff6b35, #e85a2b);
 }
 
-.schedule li.break .schedule-header {
-  background: linear-gradient(135deg, #6c757d, #495057);
+.schedule li.live .session-time, .schedule li.live .session-title {
+  color: white;
+}
+
+.schedule li.live .session-description {
+  color: white;
+  opacity: 0.75;
+}
+
+.schedule li.live .session-time time::after {
+  content: "\A● En vivo";
+  font-size: 0.75rem;
+  animation: blink 2s infinite;
+  white-space: pre;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
 }
 
 /* Responsive */
@@ -429,7 +486,7 @@ body {
     gap: 0.5rem;
   }
   
-  .time {
+  .session-title {
     font-size: 1.1rem;
   }
   
@@ -438,7 +495,7 @@ body {
     text-align: left;
   }
   
-  .description {
+  .session-description {
     padding: 1.5rem;
     font-size: 1rem;
   }
@@ -449,11 +506,11 @@ body {
     padding: 1rem 1.2rem;
   }
   
-  .description {
+  .session-description {
     padding: 1.2rem;
   }
   
-  .time {
+  .session-title {
     font-size: 1rem;
   }
   
