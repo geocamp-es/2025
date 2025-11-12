@@ -105,6 +105,9 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/)
 * [![Geoinnova](./imgs/geoinnova.svg)](https://geoinnova.org/)
 * [![Ibercivis](./imgs/ibercivis.png)](https://ibercivis.es/)
+* [![iCarto](./imgs/icarto.png)](https://icarto.es/)
+* [![Geomatico](./imgs/geomatico.png)](https://geomatico.es/)
+* [![MappingGIS](./imgs/mappinggis.png)](https://mappinggis.com/)
 {.logos .no-bullets}
 
 - - -
