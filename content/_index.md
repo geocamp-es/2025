@@ -108,6 +108,7 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![iCarto](./imgs/icarto.png)](https://icarto.es/)
 * [![Geomatico](./imgs/geomatico.png)](https://geomatico.es/)
 * [![MappingGIS](./imgs/mappinggis.png)](https://mappinggis.com/)
+* [![BGEO](./imgs/bgeo.png)](https://bgeo.es/)
 * [![OpenCage](./imgs/opencage.svg)](https://opencagedata.com/)
 {.logos .no-bullets}
 
