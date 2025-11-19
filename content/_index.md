@@ -110,6 +110,8 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![MappingGIS](./imgs/mappinggis.png)](https://mappinggis.com/)
 * [![BGEO](./imgs/bgeo.png)](https://bgeo.es/)
 * [![OpenCage](./imgs/opencage.svg)](https://opencagedata.com/)
+* [![UdG SIGTE](./imgs/logo_udg_sigte-curt.png)](https://www.udg.edu/sigte/)
+* [![UNIGIS Girona](./imgs/logo_unigis_girona.png)](https://www.udg.edu/es/sigte/master-i-postgraus)
 {.logos .no-bullets}
 
 - - -
@@ -119,6 +121,8 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![Mapeado Colaborativo/Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org/)
 * [![Nosolosig](./imgs/nosoloSIG.png)](https://nosolosig.com/)
 * [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es/)
+* [![Depto. de Geografía y O.T. - Univ. de Zaragoza](./imgs/logo_geografia_unizar.png)](https://geografia.unizar.es/)
+* [![Colegio de Geógrafos de Aragón](./imgs/logo_geografos_aragon_cabecera2.png)](https://geografiaprofesionalaragon.eu/)
 {.logos .no-bullets}
 
 - - -
