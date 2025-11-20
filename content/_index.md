@@ -1,5 +1,6 @@
 ---
 title: GeoCamp/SotM-es 2025 
+description: Desconferencia anual de las comunidades españolas de geoinquietos y OpenStreetMap. Se celebarará el sábado 13 de diciembre en Etopia, el Centro de Emprendimiento y Tecnología de Zaragoza. ¡Apúntate!
 ---
 
 <!-- Logos en tema claro y oscuro -->

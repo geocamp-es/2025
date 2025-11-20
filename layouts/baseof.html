@@ -5,7 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    
+
+    {{ template "_internal/opengraph.html" . }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}imgs/geocamp_sotmes_banner.jpg">
+
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@8.2.0/ol.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/pico/pico.min.css" >
