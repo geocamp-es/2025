@@ -64,6 +64,8 @@ Este espacio cuenta con [excelentes instalaciones](https://www.zaragoza.es/sede/
 
 {{< map location="-0.9074,41.6596" zoom="14" height="450px" svg="imgs/logo_geocamp_90x50.svg">}}
 
+
+
 ### ¿Cómo puedo llegar?
 
 Zaragoza dispone de diferentes medios de transporte de media y larga distancia. El espacio Etopia se encuentra muy cerca de la [**Estación de tren de Zaragoza Delicias**](https://www.adif.es/w/04040-zaragoza-delicias) y la [**Estación Central de Autobuses de Zaragoza**](https://www.estacion-zaragoza.es/), que comparten edificio.
@@ -100,8 +102,6 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 - - -
 ### Patrocinan
 
-* [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/)
-* [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/)
 * [![TomTom](./imgs/tomtom.svg)](https://www.tomtom.com/)
 * [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/)
 * [![Geoinnova](./imgs/geoinnova.svg)](https://geoinnova.org/)
@@ -121,11 +121,14 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 
 ### Colaboran
 
+* [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/)
+* [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/)
 * [![Mapeado Colaborativo/Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org/)
 * [![Nosolosig](./imgs/nosoloSIG.png)](https://nosolosig.com/)
 * [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es/)
 * [![Depto. de Geografía y O.T. - Univ. de Zaragoza](./imgs/logo_geografia_unizar.png)](https://geografia.unizar.es/)
 * [![Colegio de Geógrafos de Aragón](./imgs/logo_geografos_aragon_cabecera2.png)](https://geografiaprofesionalaragon.eu/)
+* [![INVOLUTIVA](./imgs/INVOLUTIVA.svg)](https://involutiva.es/)
 {.logos .no-bullets}
 
 - - -
