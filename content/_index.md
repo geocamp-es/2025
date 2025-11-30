@@ -106,15 +106,15 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![QGIS España](./imgs/qgis_esp.svg)](https://www.qgis.es/)
 * [![Geoinnova](./imgs/geoinnova.svg)](https://geoinnova.org/)
 * [![Ibercivis](./imgs/ibercivis.png)](https://ibercivis.es/)
-* [![iCarto](./imgs/icarto.png)](https://icarto.es/)
-* [![Geomatico](./imgs/geomatico.png)](https://geomatico.es/)
-* [![MappingGIS](./imgs/mappinggis.png)](https://mappinggis.com/)
+* [![iCarto](./imgs/icarto.svg)](https://icarto.es/)
+* [![Geomatico](./imgs/geomatico.svg)](https://geomatico.es/)
+* [![MappingGIS](./imgs/mappinggis.svg)](https://mappinggis.com/)
 * [![BGEO](./imgs/bgeo.png)](https://bgeo.es/)
 * [![OpenCage](./imgs/opencage.svg)](https://opencagedata.com/)
 * [![UdG SIGTE](./imgs/logo_udg_sigte-curt.png)](https://www.udg.edu/sigte/)
 * [![UNIGIS Girona](./imgs/logo_unigis_girona.png)](https://www.udg.edu/es/sigte/master-i-postgraus)
 * [![Nexusgeographics](./imgs/logo_nexusgeographics.svg)](https://www.nexusgeographics.com)
-* [![ServiGIS](./imgs/servigis.png)](http://www.servigis.com)
+* [![ServiGIS](./imgs/servigis.svg)](http://www.servigis.com)
 {.logos .no-bullets}
 
 - - -
