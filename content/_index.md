@@ -124,7 +124,7 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![Etopia](./imgs/etopia.svg)](https://www.zaragoza.es/sede/portal/etopia/)
 * [![Ayuntamiento de Zaragoza](./imgs/ayto_zaragoza.svg)](https://www.zaragoza.es/sede/)
 * [![Mapeado Colaborativo/Geoinquietos Zaragoza](./imgs/mapcolabora.svg)](https://mapcolabora.org/)
-* [![Nosolosig](./imgs/nosoloSIG.png)](https://nosolosig.com/)
+* [![Nosolosig](./imgs/nosolosig.svg)](https://nosolosig.com/)
 * [![TEconecta](./imgs/teconecta-soastel-h-a.svg)](https://www.teconecta.es/)
 * [![Depto. de Geografía y O.T. - Univ. de Zaragoza](./imgs/logo_geografia_unizar.png)](https://geografia.unizar.es/)
 * [![Colegio de Geógrafos de Aragón](./imgs/logo_geografos_aragon_cabecera2.png)](https://geografiaprofesionalaragon.eu/)
