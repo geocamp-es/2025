@@ -26,9 +26,10 @@
           distance = countDown - now;
 
     if (distance < 0) {
-      document.getElementById("headline").innerText = "¡Ya ha llegado el momento! 🎊";
-      document.getElementById("countdown").style.display = "none";
-      document.getElementById("content").style.display = "block";
+      // document.getElementById("countdown").style.display = "none";
+      document.getElementById("regístrate").innerText = "¡Ya ha llegado el momento! 🎊";
+      document.getElementById("regístrate").style.fontSize = "1.5em";
+      document.getElementById("regístrate").style.color = "var(--verde-mudejar)";
       clearInterval(x);
       return;
     }
