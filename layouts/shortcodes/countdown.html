@@ -30,7 +30,31 @@
       document.getElementById("regístrate").innerText = "¡Ya ha llegado el momento! 🎊";
       document.getElementById("regístrate").style.fontSize = "1.5em";
       document.getElementById("regístrate").style.color = "var(--verde-mudejar)";
+
+      // Allow confetti
+      document.getElementById("regístrate").onclick = function() {
+        const rect = this.getBoundingClientRect();
+        const origin = {
+          x: (rect.left + rect.width / 2) / window.innerWidth,
+          y: (rect.top + rect.height / 2) / window.innerHeight
+        };
+
+        if (typeof confetti === 'function') {
+          confetti({particleCount: 100, spread: 70, origin: origin});
+        } else {
+          const script = document.createElement("script");
+          script.src = "https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js";
+          script.async = true;
+          script.onload = function() {
+            confetti({particleCount: 100, spread: 70, origin: origin});
+          };
+          script.onerror = function() { console.error('Confetti script failed to load'); };
+          document.head.appendChild(script);
+        }
+      };
+
       clearInterval(x);
+
       return;
     }
 
