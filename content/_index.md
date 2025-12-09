@@ -116,6 +116,8 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![Nexusgeographics](./imgs/logo_nexusgeographics.svg)](https://www.nexusgeographics.com)
 * [![ServiGIS](./imgs/servigis.svg)](http://www.servigis.com)
 {.logos .no-bullets}
+* [![MapTiler](./imgs/maptiler.svg)](https://www.maptiler.com)
+{.logos .no-bullets}
 
 - - -
 
