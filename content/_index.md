@@ -115,6 +115,7 @@ Este evento solo es posible gracias al patrocinio de empresas, instituciones y p
 * [![UNIGIS Girona](./imgs/logo_unigis_girona.png)](https://www.udg.edu/es/sigte/master-i-postgraus)
 * [![Nexusgeographics](./imgs/logo_nexusgeographics.svg)](https://www.nexusgeographics.com)
 * [![ServiGIS](./imgs/servigis.svg)](http://www.servigis.com)
+* [![Infraplan](./imgs/infraplan.png)](https://infraplan-geospatial.com/)
 * [![MapTiler](./imgs/maptiler-logo.svg)](https://www.maptiler.com/)
 {.logos .no-bullets}
 
