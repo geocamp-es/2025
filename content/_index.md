@@ -10,7 +10,7 @@ description: Desconferencia anual de las comunidades españolas de geoinquietos 
 ![Logo GeoCamp/SoTM](imgs/logo_GeoCamp_sotm_2025_web_dark.svg)
 {.dark .logo-geocamp}
 
-{{< countdown futureDate="2025-12-13T09:00:00" >}}
+{{< countdown futureDate="2025-12-13T09:30:00+01:00" >}}
 
 {{< registrate >}}
 
